@@ -24,7 +24,7 @@ def details() -> str:
     """Return a friendly HTTP greeting.
 
     Returns:
-        A string with the words 'Hello World!'.
+        A string with the words 'Student details'.
     """
     return "Hello my name is Ajibola a student of Glasgow with student ID S2238458 and this is my App Engine App"
 
